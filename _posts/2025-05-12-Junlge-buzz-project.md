@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 블로그 포스트 연습
+title: Jungle Buzz Project
 ---
 
 # 실시간 채팅 기반 감정 공유 플랫폼
