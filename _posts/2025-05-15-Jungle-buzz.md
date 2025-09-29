@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Jungle Buzz
+date: 2025-05-15
 ---
 
 실시간 채팅 기반 감정 공유 플랫폼
