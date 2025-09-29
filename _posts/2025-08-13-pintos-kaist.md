@@ -5,8 +5,8 @@ title: Pintos-kaist Project
 
 간단 운영체제 구현 프로젝트
 
-**주제**: CPU와 메모리, 파일 시스템의 기초를 직접 구현하며 운영체제 원리 체득
-**깃허브** : [Github](https://github.com/volume5522/pintos-kaist.git)
+**주제**: CPU와 메모리, 파일 시스템의 기초를 직접 구현하며 운영체제 원리 체득  
+**깃허브** : [Github](https://github.com/volume5522/pintos-kaist.git)  
 **개발 인원**: 3인 팀 과제  
 **프로젝트 진행 일자**: 2025. 07. ~ 2025. 09.  
 **맡은 역할**: 운영체제 뼈대 코드 분석 및 핵심 기능(프로세스 실행, 시스템 콜, 가상 메모리, fork) 직접 구현
