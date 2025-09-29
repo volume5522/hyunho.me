@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 블로그 포스트 연습
+title: Pintos Kaist Project
 ---
 
 간단 운영체제 구현 프로젝트

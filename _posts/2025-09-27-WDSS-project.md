@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WDSS (Web Show Drone Simulator)
+title: WDSS (Web Show Drone Simulator) Project
 ---
 
 기획부터 검증까지 한 화면에서 끝내는 드론 쇼 웹 제작 서비스
