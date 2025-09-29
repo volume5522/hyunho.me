@@ -7,7 +7,7 @@ title: WDSS (Web Show Drone Simulator)
 
 - **깃허브** : [Github](https://github.com/MW-1st) / **노션** : [Notion](https://www.notion.so/WDSS-Project-DroneFactory-2519421e3b718077a932da9270ab6944?source=copy_link)
 - **개발 인원** : 6명
-- **프로젝트 진행 일자** : 2025. 08. 21. ~ 2025. 09. 27.
+- **프로젝트 진행 일자** : 2025. 08. ~ 2025. 09.
 - **맡은 역할** : C#을 통해, Web과 Unity, 실제 드론(ESP32 Drone)과 통신하는 **중앙 제어 서버(GCS) 구축 및 구현**
 
 ---
