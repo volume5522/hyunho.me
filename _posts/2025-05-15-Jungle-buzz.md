@@ -5,7 +5,7 @@ title: Jungle Buzz
 
 실시간 채팅 기반 감정 공유 플랫폼
 
-- **깃허브** : [Github](https://github.com/volume5522/jungle-buzz)
+- **깃허브** : [Github](https://github.com/suinkimme/jungle-buzz.git)
 - **개발 인원** : 3인
 - **프로젝트 진행 일자** : 2025. 05. 12. ~ 2025. 05. 15.
 - **맡은 역할** : **Python Flask 기반 백엔드 API 서버 및 실시간 WebSocket 통신 서버 구축**
