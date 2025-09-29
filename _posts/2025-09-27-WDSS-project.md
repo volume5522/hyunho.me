@@ -3,7 +3,7 @@ layout: post
 title: WDSS (Web Show Drone Simulator)
 ---
 
-# Web Drone Show Simulator (WDSS)
+기획부터 검증까지 한 화면에서 끝내는 드론 쇼 웹 제작 서비스
 
 - **깃허브** : [Github](https://github.com/MW-1st) / **노션** : [Notion](https://www.notion.so/WDSS-Project-DroneFactory-2519421e3b718077a932da9270ab6944?source=copy_link)
 - **개발 인원** : 6명
