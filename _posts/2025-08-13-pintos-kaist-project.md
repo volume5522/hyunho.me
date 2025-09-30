@@ -3,7 +3,7 @@ layout: post
 title: Pintos Kaist Project
 ---
 
-간단 운영체제 구현 프로젝트
+Pintos 운영체제 구현 프로젝트
 
 **주제**: CPU와 메모리, 파일 시스템의 기초를 직접 구현하며 운영체제 원리 체득  
 **깃허브** : [Github](https://github.com/volume5522/pintos-kaist.git)  
