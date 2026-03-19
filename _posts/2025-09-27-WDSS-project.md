@@ -1,14 +1,7 @@
 ---
 layout: post
-title: 김현호
+title: WDSS (Web Drone Show Simulator) Project
 ---
-
-- 시스템 구조를 이해하고 근본 원인을 해결하는 개발자  
-- Backend / System / C++  
-- WebSocket / TCP / OS / Unity  
-  
-  
-# WDSS (Web Drone Show Simulator) Project  
 
 기획부터 검증까지 한 화면에서 끝내는 드론 쇼 웹 제작 서비스
 
