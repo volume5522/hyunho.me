@@ -8,7 +8,22 @@ title: WDSS (Web Show Drone Simulator) Project
 - **깃허브** : [Github](https://github.com/MW-1st) / **노션** : [Notion](https://www.notion.so/WDSS-Project-DroneFactory-2519421e3b718077a932da9270ab6944?source=copy_link)
 - **개발 인원** : 6명
 - **프로젝트 진행 일자** : 2025. 08. ~ 2025. 09.
-- **맡은 역할** : 팀장, C#을 통해, Web과 Unity, 실제 드론(ESP32 Drone)과 통신하는 **중앙 제어 서버(GCS) 구축 및 구현**
+
+---
+
+### 핵심 기여
+
+- Unity 기반 모놀리식 구조를 **서버-클라이언트 구조로 분리**하여 성능 병목 해결  
+- **ASP.NET Core 기반 중앙 제어 서버(GCS)** 설계 및 구현  
+- Web–Unity–ESP32 드론 간 **실시간 통신 구조 구축 (WebSocket / TCP / UDP)**  
+- 구조 개선을 통해 **Unity CPU 사용률 85% → 25% 감소**
+
+---
+
+### 역할
+
+- 팀장으로 프로젝트 구조 설계 및 개발 방향 주도  
+- C# 기반 GCS 서버 구현 및 Web·Unity·실드론 간 통신 로직 개발
 
 ---
 
