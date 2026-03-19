@@ -1,6 +1,6 @@
 ---
-layout: post
-title: portfolio
+layout: page
+title: Portfolio
 ---
 
 포토폴리오
